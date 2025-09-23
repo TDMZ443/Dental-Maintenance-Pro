@@ -1,1 +1,3 @@
 Spent time speaking with partner, delegating tasks, and discussing where we're at.
+
+9/23/25 Refined database connection process, rewrote equipment getter/display page, organized project files.
