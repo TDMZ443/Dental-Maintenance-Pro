@@ -9,3 +9,6 @@ and SQL capability.
 
 9/29/25 Added login functionality (still a lot to do here like hashing, hash checking, cookies etc). 
 Worked with partner through some next.js intricacies, read more about databases
+
+9/30/25 Redesigned about half of the database. Begun working on 
+integrating the front end with these new database changes
