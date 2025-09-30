@@ -6,3 +6,6 @@ Spent time speaking with partner, delegating tasks, and discussing where we're a
 
 9/25/25 Begun careful consideration of database structure/engineering. Conducted some research about database engineering practice,
 and SQL capability.
+
+9/29/25 Added login functionality (still a lot to do here like hashing, hash checking, cookies etc). 
+Worked with partner through some next.js intricacies, read more about databases
