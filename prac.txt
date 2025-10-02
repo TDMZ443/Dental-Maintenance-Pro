@@ -12,3 +12,7 @@ Worked with partner through some next.js intricacies, read more about databases
 
 9/30/25 Redesigned about half of the database. Begun working on 
 integrating the front end with these new database changes
+
+10/01/25 Made changes in the login, registration, and equipment
+display to match changes made to the database. I.e. finishing the 
+task described above
