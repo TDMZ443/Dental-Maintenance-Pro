@@ -16,3 +16,6 @@ integrating the front end with these new database changes
 10/01/25 Made changes in the login, registration, and equipment
 display to match changes made to the database. I.e. finishing the 
 task described above
+
+10/02/25 Added hashing functionality and password checking to login/registration. Did more planning on building the second
+half of the database
