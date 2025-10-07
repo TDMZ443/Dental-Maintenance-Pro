@@ -18,4 +18,6 @@ display to match changes made to the database. I.e. finishing the
 task described above
 
 10/02/25 Added hashing functionality and password checking to login/registration. Did more planning on building the second
-half of the database
+half of the database.
+
+10/07/25 Made (i think?) the rest of the database. At least a good baseline for it. Will look more later.
