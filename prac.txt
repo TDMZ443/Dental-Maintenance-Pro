@@ -21,3 +21,5 @@ task described above
 half of the database.
 
 10/07/25 Made (i think?) the rest of the database. At least a good baseline for it. Will look more later.
+
+10/08/25 Begun reading a bit about implementing langchain ai agents in to Next.js
