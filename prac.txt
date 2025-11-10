@@ -26,3 +26,9 @@ half of the database.
 
 10/13/25 Did a lot more research on langchain agents in Next.js. Found some online resources with
 prebuilt agents that I can maybe start with to implement my own. Also did some planning on my next steps
+
+11/09/25 After like three weeks of nothing nbut reading and reading and reading
+I finally have a function llm interaction going on in my project. I did not want to
+push it to the other github because my partner and I have a some merge conflicts we need to fix.
+But finally! Some progress! I swear ive been working on this. It has just been hell
+trying to get this to work. But I feel happy I finally made a bit of a breakthrough.
