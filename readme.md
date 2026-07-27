@@ -1,3 +1,5 @@
+NOTE: This was a capstone project developed in to an LLC. A lot of this process was me and my partner learning many new things. What we focused on the least, is the graphic design side of things. We focused more on achieving correct and scalable functionality. UI Seen below is subject to change before beta testing is complete.
+
 # Dental Task Manager
 
 A SaaS platform that helps dental offices track equipment and stay on top of preventative maintenance — built with a single partner, end to end, from product design to production deployment.
@@ -20,8 +22,8 @@ Every completed maintenance visit is logged permanently. History stays accurate 
 ### AI-assisted maintenance research
 For equipment without a documented schedule, a built-in research assistant searches the web and summarizes manufacturer maintenance guidance — recommended intervals, key tasks, parts, and safety notes. The assistant will delegate the tasks between in-office vs professional services, then serve the user a list of tasks they can select from to save to that office as recorded maintenance tasks.
 
-![Research Assistant](screenshots/invoice-selection.png)
-![Research Assistant](screenshots/invoice-results.png)
+![Research Assistant Select](screenshots/research-selection.png)
+![Research Assistant Result](screenshots/research-results.png)
 
 Users can also view, and save, a separate summary section. This describes the maintenance tasks in more detail, along with providing sources for the information.
 
