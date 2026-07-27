@@ -37,12 +37,12 @@ Each dental office is its own secure workspace. Staff join with a rotating offic
 
 ## Tech Stack
 
-**Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS
-**Backend:** Next.js Server Actions, MySQL (AWS RDS)
-**Auth:** Clerk, with organizations mapped to dental offices
-**AI:** LLM-powered document extraction and web research, with validated, guarded model output
-**Email:** AWS SES
-**Deployment:** Vercel, with a containerized path to AWS
+- **Frontend:** Next.js (App Router), React, TypeScript, Tailwind CSS 
+- **Backend:** Next.js Server Actions, MySQL (AWS RDS)
+- **Auth:** Clerk, with organizations mapped to dental offices
+- **AI:** LLM-powered document extraction and web research, with validated, guarded model output
+- **Email:** AWS SES
+- **Deployment:** Vercel, with a containerized path to AWS
 
 ## Engineering Highlights
 
