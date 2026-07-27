@@ -1,4 +1,4 @@
-NOTE: This was a capstone project developed in to an LLC. A lot of this process was me and my partner learning many new things. What we focused on the least, is the graphic design side of things. We focused more on achieving correct and scalable functionality. UI Seen below is subject to change before beta testing is complete.
+NOTE: This was a capstone project developed in to an LLC. A lot of this process was me and my partner learning many new things. What we focused on the least, is the graphic design side of things. We focused more on achieving correct and scalable functionality. UI seen below is subject to change before beta testing is complete.
 
 # Dental Task Manager
 
