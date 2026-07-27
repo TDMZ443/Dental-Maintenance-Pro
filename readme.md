@@ -1,6 +1,6 @@
 # Dental Task Manager
 
-A SaaS platform that helps dental offices track equipment and stay on top of preventative maintenance — built solo, end to end, from product design to production deployment.
+A SaaS platform that helps dental offices track equipment and stay on top of preventative maintenance — built with a single partner, end to end, from product design to production deployment.
 
 Dental practices run expensive, safety-critical equipment (autoclaves, X-ray units, handpieces) on manufacturer-mandated maintenance schedules. Missed maintenance risks equipment failure, compliance issues, and patient safety. This app replaces spreadsheets and tribal knowledge with a single source of truth for what needs servicing, when, and what's already been done.
 
