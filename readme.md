@@ -9,7 +9,7 @@ Dental practices run expensive, safety-critical equipment (autoclaves, X-ray uni
 ### Smart equipment onboarding
 Upload a vendor invoice PDF and the app automatically extracts equipment line items — name, model, manufacturer, serial number, purchase date, warranty — and then allows the user to choose which pieces to add to their inventory. No manual data entry, and re-uploading the same invoice won't create duplicates.
 
-![Invoice upload](screenshots/invoice-upload.png)
+![Invoice upload](screenshots/invoice-assistant.png)
 
 ### Maintenance scheduling
 Set up recurring maintenance requirements once — either for a type of equipment across every office, or for one specific machine — and the app generates scheduled maintenance events automatically.
@@ -20,7 +20,10 @@ Every completed maintenance visit is logged permanently. History stays accurate 
 ### AI-assisted maintenance research
 For equipment without a documented schedule, a built-in research assistant searches the web and summarizes manufacturer maintenance guidance — recommended intervals, key tasks, parts, and safety notes. The assistant will delegate the tasks between in-office vs professional services, then serve the user a list of tasks they can select from to save to that office as recorded maintenance tasks.
 
-![Research Assistant](screenshots/invoice-upload.png)
+![Research Assistant](screenshots/invoice-selection.png)
+![Research Assistant](screenshots/invoice-results.png)
+
+Users can also view, and save, a separate summary section. This describes the maintenance tasks in more detail, along with providing sources for the information.
 
 ### Automated reminders
 Offices get email notifications ahead of upcoming maintenance, so nothing falls through the cracks even when nobody's watching the dashboard.
@@ -28,7 +31,7 @@ Offices get email notifications ahead of upcoming maintenance, so nothing falls 
 ### Multi-office, role-based access
 Each dental office is its own secure workspace. Staff join with a rotating office code, and access is scoped so one office never sees another's data.
 
-![Team/office view](screenshots/office-view.png)
+![Team/office view](screenshots/offices-view.png)
 
 ## Tech Stack
 
